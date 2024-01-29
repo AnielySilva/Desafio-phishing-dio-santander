@@ -12,7 +12,7 @@
 - Vetor de ataque ``` Web Site Attack Vectors ```
 > Métodos de ataque
 - Clone de web site ``` Credential Harvester Attack Method ```
-- Clone de template pront ``` Web templates ```
+- Clone de template pronto ``` Web templates ```
   - Google
 
 ## Resultado
